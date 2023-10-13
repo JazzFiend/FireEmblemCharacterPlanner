@@ -1,4 +1,4 @@
-package com.PD.FireEmblemCharacterPlannerBE.restservice;
+package com.pd.fire_emblem_character_planner_be.rest_service;
 
 import java.util.concurrent.atomic.AtomicLong;
 import org.springframework.web.bind.annotation.GetMapping;

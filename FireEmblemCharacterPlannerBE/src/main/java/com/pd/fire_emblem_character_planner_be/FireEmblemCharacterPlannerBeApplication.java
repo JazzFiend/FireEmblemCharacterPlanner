@@ -1,4 +1,4 @@
-package com.PD.FireEmblemCharacterPlannerBE;
+package com.pd.fire_emblem_character_planner_be;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
